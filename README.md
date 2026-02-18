@@ -14,5 +14,5 @@ a user to enter input that gets interpreted as a shell command.
 ## How to Clone, Compile, and Run:
 1. Clone the repository using the command: `git clone https://github.com/1PatentPending1/TechShell.git`
 2. Change into the TechShell directory: `cd TechShell`
-3. Compile the program using the command: `gcc techshell.c executor.c -o techshell`
+3. Compile the program using the command: `gcc techshell.c -o techshell`
 4. Run the program using the command: `./techshell`

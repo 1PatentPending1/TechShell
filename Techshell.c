@@ -1,5 +1,5 @@
 /*
-Authors: Lane Ingles and Jackson Clark
+Author: Lane Ingles 
 Description: Main file for Techshell that holds the main loop of the shell for
 parsing user input.
 */
